@@ -8,12 +8,12 @@
 
 
 ------
-## SDF to SQL file
+## Module 1. SDF SQL File Converter
 
-Two main modes with RDKit
+Two main modes with RDKit package
 ```
-sdf2query: SDF file to query
-query2sdf: query to SDF file
+sdf2query: From SDF file to Query
+query2sdf: From Query to SDF file
 ```
 Examples
 ```
@@ -25,8 +25,8 @@ python sdf_query_converter.py query2sdf -v mysql -i test.sql -o test.sdf
 Essential Parameters
 ```
 -v mysql | oracle | sqlite | postgresql
--i input file
--o output file
+-i /directory/input/file
+-o /directory/output/file
 ```
 
 
