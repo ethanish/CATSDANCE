@@ -9,16 +9,21 @@
 
 ------
 ## SDF to SQL file
+
+Two main modes with RDKit
+```
+sdf2query: SDF file to query
+query2sdf: query to SDF file
+```
+Examples
 ```
 python sdf_query_converter.py sdf2query -v mysql -i test.sdf -o test.sql
-```
-
-```
 python sdf_query_converter.py query2sdf -v mysql -i test.sql -o test.sdf
 ```
 
+
+Essential Parameters
 ```
-sql2query | query2sql
 -v mysql | oracle | sqlite | postgresql
 -i input file
 -o output file
