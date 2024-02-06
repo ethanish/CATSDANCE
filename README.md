@@ -1,4 +1,4 @@
-## CAT'S DANCE: **C**hemistry **A**nalysis **T**ools for **S**tructural **D**ata **A**nd i**N**tera**C**tion **E**xploration
+# CAT'S DANCE: **C**hemistry **A**nalysis **T**ools for **S**tructural **D**ata **A**nd i**N**tera**C**tion **E**xploration
 
 ![](./img/logo/cats_dance.gif)
 
@@ -7,6 +7,13 @@
 - Futhermore, explore the possibilities of data-driven discovery with Artificial Intelligence, revolutionizing insights in the field of bioactivity.
 - Visuality and plotting, providing dynamic and insightful graphical representations for enhanced data interpretation and analysis.
 - Web service usability with robust computing support, addressing challenging aspects for effortless data exploration
+
+------
+## How to install
+
+```
+pip install catsdance
+```
 
 
 ------
