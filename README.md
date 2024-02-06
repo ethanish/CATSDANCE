@@ -1,6 +1,6 @@
 ## CAT'S DANCE: **C**hemistry **A**nalysis **T**ools for **S**tructural **D**ata **A**nd i**N**tera**C**tion **E**xploration
 
-![](./img/logo/dancing_cat.gif)
+![](./img/logo/cats_dance.gif)
 
 - Simplify your structural data handling, offering user-friendly solutions for researchers and enthusiasts
 - Effortlessly convert cheminformatics files into organized data sets, streamlining structural information for diverse applications.
