@@ -1,4 +1,4 @@
-# CAT'S DANCE: **C**hemistry **A**nalysis **T**ools for **S**tructural **D**ata **A**nd i**N**tera**C**tion **E**xploration
+# CAT'S DANCE: **C**hemistry **A**nalysis **T**ools for **S**tructural **D**ata **A**nd i**N**tera**C**tion **E**xploration Library
 
 <p align="center">
 <img src="./img/logo/cats_dance.gif" width="50%">
@@ -21,9 +21,9 @@ pip install catsdance
 
 
 ------
-## Module 1. SDF SQL File Converter
+## 1. SDF SQL File Converter
 
-Two main modes with RDKit package
+Two main modes with RDKit library
 ```
 sdf2query: From SDF file to Query
 query2sdf: From Query to SDF file
