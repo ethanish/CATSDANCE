@@ -13,6 +13,8 @@
 ------
 ## How to install
 
+Not publiched yet.
+
 ```
 pip install catsdance
 ```
