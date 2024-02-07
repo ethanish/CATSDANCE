@@ -1,13 +1,14 @@
 # CAT'S DANCE: **C**hemistry **A**nalysis **T**ools for **S**tructural **D**ata **A**nd i**N**tera**C**tion **E**xploration
 
+<p align="center">
 <img src="./img/logo/cats_dance.gif" width="50%">
-
+</p>
 
 - Simplify your structural data handling, offering user-friendly solutions for researchers
-- Effortlessly convert cheminformatics files into organized data sets, streamlining structural information for diverse applications.
+- Effortlessly convert bioinformatics or cheminformatics files into organized data architecture, streamlining structural information for diverse applications.
 - Futhermore, explore the possibilities of data-driven discovery with Artificial Intelligence, revolutionizing insights in the field of bioactivity.
 - Visuality and plotting, providing dynamic and insightful graphical representations for enhanced data interpretation and analysis.
-- Web service usability with robust computing support, addressing challenging aspects for effortless data exploration
+- Web service usability with robust computing support, addressing challenging aspects for effortless data exploration.
 
 ------
 ## How to install
