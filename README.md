@@ -25,18 +25,18 @@ Two main modes with RDKit package
 sdf2query: From SDF file to Query
 query2sdf: From Query to SDF file
 ```
+
+Essential Parameters
+```
+--database (-d) mysql | oracle | sqlite | postgresql
+--input (-i) /directory/input/file
+--output (-o) /directory/output/file
+```
+
 Examples
 ```
 python sdf_query_converter.py sdf2query -v mysql -i test.sdf -o test.sql
 python sdf_query_converter.py query2sdf -v mysql -i test.sql -o test.sdf
-```
-
-
-Essential Parameters
-```
--v mysql | oracle | sqlite | postgresql
--i /directory/input/file
--o /directory/output/file
 ```
 
 
