@@ -1,4 +1,4 @@
-# CAT'S DANCE: **C**hemistry **A**nalysis **T**ools for **S**tructural **D**ata **A**nd i**N**tera**C**tion **E**xploration Library
+# CAT'S DANCE: **C**hemistry **A**nalysis **T**ools for **S**tructural **D**ata **A**nd i**N**tera**C**tion **E**xploration library
 
 <p align="center">
 <img src="./img/logo/cats_dance.gif" width="50%">
